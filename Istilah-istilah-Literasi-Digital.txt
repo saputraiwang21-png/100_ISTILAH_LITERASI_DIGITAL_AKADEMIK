@@ -1,1 +1,119 @@
+PENDAHULUAN
+Transformasi digital telah mengubah lanskap publikasi akademik secara fundamental. Penulisan buku ilmiah dan artikel jurnal modern tidak lagi hanya mengandalkan kemahiran tata bahasa dan substansi keilmuan, tetapi juga penguasaan infrastruktur serta ekosistem literasi digital. Pemahaman atas istilah-istilah teknis digital sangat krusial bagi dosen, peneliti, dan mahasiswa untuk menghindari praktek publikasi predator, meningkatkan keterlacakan karya (discoverability), serta mengoptimalkan dampak sitasi akademik di tingkat nasional maupun internasional. Dokumen ini menyajikan 100 istilah kunci yang disusun secara sistematis untuk menunjang keberhasilan publikasi ilmiah. 
 
+Mengupload: 2578099 dari 2578099 byte diupload.
+
+A. IDENTITAS DIGITAL & INFRASTUKTUR PUBLIK
+
+1. ORCID iD: Pengenal digital permanen unik bagi peneliti untuk membedakan identitas antarpenulis ilmiah.
+2. DOI (Digital Object Identifier): Alamat tautan permanen berstandar ISO untuk mengakses dokumen atau artikel ilmiah tertentu secara pasti.
+3. ISSN / e-ISSN: Nomor standar internasional untuk mengidentifikasi terbitan berkala cetak maupun elektronik.
+4. ISBN / e-ISBN: Kode pengenal unik internasional bagi buku ilmiah atau monograf baik cetak maupun digital.
+5. OJS (Open Journal Systems): Platform perangkat lunak sumber terbuka untuk mengelola riset dan penerbitan jurnal berbasis web.
+6. OMP (Open Monograph Press): Platform terbuka pengelolaan alur kerja penerbitan buku ilmiah, monograf, dan penyuntingan bab.
+7. Crossref: Lembaga pendaftaran metadata resmi DOI yang menghubungkan pangkalan data penelitian global.
+8. Metadata: Data terstruktur yang mendeskripsikan informasi dokumen (judul, abstrak, kata kunci, penulis).
+9. Repository Akademik: Arsip digital institusi untuk menyimpan, mengindeks, dan membagikan hasil riset civitas akademika.
+10. Open Access (OA): Prinsip keterbukaan akses literatur ilmiah secara gratis dan bebas hambatan lisensi bagi pembaca.
+11. Gold Open Access: Model publikasi terbuka di mana artikel dapat diakses gratis segera setelah diterbitkan penerbit.
+12. Green Open Access: Praktik mengarsipkan mandiri naskah (pre-print/post-print) ke repositori institusi secara gratis.
+13. Hybrid Journal: Jurnal berbasis berlangganan yang memberikan opsi akses terbuka jika penulis membayar APC.
+14. APC (Article Processing Charge): Biaya pemrosesan artikel yang dibayarkan ke penerbit untuk membiayai proses editorial dan publikasi.
+15. BPC (Book Processing Charge): Biaya penerbitan buku akses terbuka untuk menutup beban produksi dan distribusi digital.
+16. Creative Commons (CC): Lisensi hak cipta yang memberi izin publik untuk menggunakan dan membagikan karya ilmiah. 
+17. CC-BY: Lisensi fleksibel yang mengizinkan redistribusi dan modifikasi karya dengan menyantumkan atribusi.
+18. Pre-print: Draf naskah ilmiah yang diunggah ke server publik sebelum melewati proses perelaahan sejawat (peer review).
+19. Post-print: Versi naskah yang telah direvisi dan disetujui peer review tetapi belum ditata-letak oleh penerbit.
+20. VoR (Version of Record): Versi final artikel terbit resmi yang telah melalui penyuntingan, tata letak, dan penetapan DOI.
+21. Persistent Identifier (PID): Rujukan digital unik berjangka panjang untuk objek, entitas, orang, atau organisasi ilmiah.
+22. XML / JATS: Format markup standar industri penerbitan ilmiah (Journal Article Tag Suite) untuk pengindeksan digital
+
+B. IDEKSASI,BIBLIOMETRIK & EVALUASI REPUTASI
+1. Scopus: Pangkalan data sitasi dan abstrak artikel ilmiah terbesar yang dikelola oleh penerbit Elsevier.
+2. Web of Science (WoS): Platform pangkalan data sitasi ilmiah bereputasi tinggi yang dikelola oleh Clarivate.
+3. SINTA: Science and Technology Index, sistem pengindeksan penerbitan ilmiah nasional Kemendikbudristek RI.
+4. DOAJ: Directory of Open Access Journals, direktori independen yang mengindeks jurnal akses terbuka berkualitas.
+5. DOAB: Directory of Open Access Books, indeks akademik terverifikasi khusus untuk buku ilmiah akses terbuka.
+6. Google Scholar: Layanan mesin pencari publikasi ilmiah dari Google yang mencakup berbagai disiplin ilmu.
+7. SJR (SCImago Journal Rank): Ukuran bobot ilmiah dan prestise jurnal berdasarkan jumlah dan sumber sitasi yang diterima.
+8. Quartile (Q1–Q4): Sistem peringkat pemeringkatan jurnal ilmiah di Scopus berdasarkan performa dampak sitasinya.
+9. JIF (Journal Impact Factor): Metrik rasio tahunan rerata sitasi artikel di jurnal ilmiah yang diindeks Web of Science.
+10. h-index: Metrik mengukur produktivitas dan dampak sitasi akumulatif dari karya seorang peneliti.
+11. i10-index: Metrik khas Google Scholar yang mengukur jumlah publikasi dengan minimal 10 sitasi.
+12. CiteScore: Metrik Scopus untuk menghitung rata-rata sitasi per dokumen yang diterbitkan dalam rentang 4 tahun.
+13. Altmetrics: Pengukuran dampak riset di media sosial, berita, dan blog selain sitasi ilmiah konvensional.
+14. Jurnal Predatori: Penerbit eksploitatif yang memungut biaya publikasi tanpa memberikan layanan review berkualitas.
+15. Hijacked Journal: Situs web palsu yang menduplikasi nama dan identitas jurnal sah untuk menipu peneliti.
+16. Beall's List: Daftar historis penerbit berpotensi predator yang diinisiasi oleh pustakawan Jeffrey Beall.
+17. Think Check Submit: Inisiatif global membantu peneliti menilai reputasi penerbit jurnal dan buku sebelum mengirim naskah.
+18. COPE: Committee on Publication Ethics, organisasi yang memberikan pedoman standar etika penerbitan ilmiah.
+19. ResearchGate: Jaringan sosial profesional bagi peneliti untuk berbagi makalah, bertanya, dan berkolaborasi.
+20. Academia.edu: Platform komersial jejaring akademis untuk membagikan riset dan memantau dampaknya.
+21. Dimensions: Basis data riset modern yang menghubungkan publikasi, hibah, paten, dan kebijakan ilmiah.
+22. Lens.org: Platform pencarian ilmu pengetahuan terbuka yang mengintegrasikan literatur ilmiah dan informasi paten.
+23. WoS ResearcherID: Identifikator unik bagi peneliti untuk mengaitkan karya ilmiah dengan profil Web of Science.
+24. Scopus Author ID: Nomor identifikasi otomatis dari Scopus untuk mengelompokkan profil dan publikasi penulis.
+25. Eigenfactor Score: Metrik yang mengukur total nilai ilmiah jurnal berdasarkan asal sitasi yang berbobot.
+26. ORCID Record: Rekam jejak riwayat publikasi, hibah, dan peer review yang tertaut pada akun ORCID.
+27. SNIP (Source Normalized Impact per Paper): Metrik yang mengukur dampak sitasi kontekstual berdasarkan subjek ilmu.
+28. Field-Weighted Citation Impact (FWCI): Rasio total sitasi yang diterima dibandingkan rata-rata sitasi sejenis. 
+
+C. MANAJEMEN SITASI, ETIKA & KECERDASAN BUATAN (AI)
+
+1. Reference Manager: Perangkat lunak untuk mengorganisasi pustaka acuan dan membuat sitasi otomatis.
+2. Mendeley: Aplikasi pengelola referensi dan jejaring sosial akademik besutan Elsevier.
+3. Zotero: Manajer referensi gratis dan sumber terbuka untuk mengumpulkan serta mengutip sumber riset.
+4. EndNote: Perangkat lunak manajemen sitasi berbayar yang dikembangkan oleh Clarivate.
+5. BibTeX: Format file data acuan yang digunakan bersama LaTeX untuk mengformat daftar pustaka.
+6. Plagiarisme: Tindakan mengklaim gagasan, teks, atau hasil karya orang lain tanpa atribusi resmi.
+7. Self-Plagiarism: Penggunaan kembali bagian penting dari karya sendiri yang telah terbit tanpa sitasi tepat.
+8. Similarity Index: Persentase tingkat kemiripan kata dalam naskah dibandingkan dengan basis data referensi.
+9. Turnitin: Perangkat lunak terkemuka untuk mendeteksi potensi plagiarisme dan kesamaan teks naskah.
+10. iThenticate: Layanan deteksi plagiarisme khusus bagi penerbit dan peneliti profesional.
+11. Paraphrasing Tool: Alat bantu digital untuk merumuskan ulang kalimat tanpa mengubah makna aslinya.
+12. Generative AI: Kecerdasan buatan yang mampu menghasilkan teks, sintesis riset, atau kode berdasarkan instruksi.
+13. ChatGPT / LLM: Model bahasa besar AI yang digunakan untuk membantu penyusunan draf, analisis, atau penyuntingan.
+14. AI Detector: Sistem penganalisis pola teks untuk memprediksi sejauh mana naskah dibuat oleh AI.
+15. Elicit: Asisten riset AI yang membantu otomatisasi pencarian makalah, pemetaan, dan sintesis literatur.
+16. Scite.ai: Platform AI yang mengevaluasi sitasi dengan menampilkan konteks pendukung atau penolak riset.
+17. Connected Papers: Alat visualisasi grafis untuk menemukan literatur ilmiah yang saling relevan.
+18. Research Rabbit: Platform navigasi literatur interaktif berbasis jaringan untuk melacak pemetaan artikel.
+19. Salami Slicing: Praktik tidak etis membagi satu penelitian besar menjadi makalah-makalah kecil terpisah.
+20. Paper Mill: Organisasi ilegal yang memproduksi dan menjual naskah ilmiah buatan kepada penulis.
+21. Retraction: Penarikan kembali artikel terbit karena ditemukannya cacat ilmiah fatal atau pelanggaran etika.
+22. Retraction Watch: Basis data yang memantau serta melaporkan penarikan makalah ilmiah di dunia.
+23. AI Hallucination: Kondisi di mana model AI menghasilkan fakta, data, atau referensi kutipan fiktif/palsu.
+24. Fabrication: Bentuk kecurangan akademik berupa pembuatan atau pemalsuan data riset secara sengaja.
+25. Falsification: Tindakan memanipulasi bahan, alat, atau proses riset untuk mengubah hasil agar sesuai dugaan. 
+
+D. PROSES EDITORIAL, FORMATTING & DATASETS
+
+1. Single-Blind Review: Reviewer mengetahui identitas penulis, tetapi penulis tidak mengetahui reviewer.
+2. Double-Blind Review: Identitas penulis dan reviewer disembunyikan satu sama lain selama evaluasi.
+3. Open Peer Review: Proses tinjauan di mana identitas penulis dan reviewer dipublikasikan secara terbuka.
+4. Peer Reviewers: Pakar sejawat yang bertugas menilai kualitas, keaslian, dan metode ilmiah sebuah naskah.
+5. Desk Rejection: Penolakan langsung oleh editor tanpa mengirim naskah ke proses peer review.
+6. Major Revision: Keputusan editorial yang meminta perbaikan mendasar sebelum naskah dipertimbangkan ulang.
+7. Minor Revision: Keputusan editorial untuk perbaikan kecil pada naskah tanpa perlu re-review menyeluruh.
+8. Camera-Ready: Draf naskah final yang disesuaikan secara presisi dengan format cetak/terbit penerbit.
+9. Galley Proof: Tampilan draf tata cetak akhir yang dikirimkan ke penulis untuk pemeriksaan ejaan terakhir.
+10. LaTeX: Sistem penyuntingan dokumen bertipe markup untuk tata letak dokumen sains/matematika presisi.
+11. Overleaf: Editor LaTeX kolaboratif berbasis cloud untuk menulis dan menerbitkan dokumen ilmiah.
+12. Open Data: Konsep penyediaan data mentah penelitian secara bebas agar dapat diakses dan diverifikasi publik.
+13. FAIR Data Principles: Prinsip tata kelola data: Findable, Accessible, Interoperable, dan Reusable.
+14. Zenodo: Repositori terbuka buatan CERN untuk menyimpan data riset, program, dan artefak ilmiah.
+15. Figshare: Platform pengarsipan daring untuk mengunggah dan membagikan dataset, gambar, dan poster.
+16. Dryad: Repositori terkurasi yang memfasilitasi pengarsipan data di balik publikasi ilmiah.
+17. Supplementary Material: Berkas pendukung tambahan (tabel besar, audio, video) yang menyertai publikasi.
+18. Embargo Period: Masa tenggang pembatasan akses terbuka sebelum naskah digratiskan oleh penerbit.
+19. Data Repository: Infrastruktur penyimpanan aman yang dikhususkan untuk preservasi dataset penelitian.
+20. Data Availability Statement: Pernyataan tertulis tentang lokasi dan kondisi akses keberadaan data riset.
+21. Copyediting: Proses pengeditan naskah untuk memperbaiki tata bahasa, kejelasan, dan konsistensi gaya.
+22. Typesetting: Proses menyusun dan menata tata letak teks serta elemen visual siap cetak/terbit.
+23. Article In Press / Early View: Artikel yang disetujui dan diterbitkan daring sebelum penomoran volume.
+24. Style Guide: Pedoman format tata tulis resmi (APA, IEEE, MLA, Chicago) yang diwajibkan penerbit.
+25. CrediT Taxonomy: Taksonomi standar peran penulis untuk menetapkan kontribusi spesifik tiap individu. 
+
+PENUTUP 
+
+Penguasaan 100 istilah literasi digital akademik ini bukan sekadar pemahaman jargon teknis, melainkan investasi strategis bagi para akademisi, penulis, dan peneliti. Dengan memahami ekosistem ini—mulai dari identitas digital, tata kelola sitasi, etika pemanfaatan kecerdasan buatan, hingga kredibilitas jurnal dan keterbukaan data—penulis dapat menavigasi proses publikasi ilmiah dengan percaya diri, terhindar dari jebakan penerbit predator, serta memastikan karya buku dan jurnal yang dihasilkan memiliki visibilitas dan dampak riset yang optimal di tingkat global. 
