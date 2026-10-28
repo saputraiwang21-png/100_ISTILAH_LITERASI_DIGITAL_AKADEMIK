@@ -29,6 +29,7 @@ A. IDENTITAS DIGITAL & INFRASTUKTUR PUBLIK
 22. XML / JATS: Format markup standar industri penerbitan ilmiah (Journal Article Tag Suite) untuk pengindeksan digital
 
 B. IDEKSASI,BIBLIOMETRIK & EVALUASI REPUTASI
+
 1. Scopus: Pangkalan data sitasi dan abstrak artikel ilmiah terbesar yang dikelola oleh penerbit Elsevier.
 2. Web of Science (WoS): Platform pangkalan data sitasi ilmiah bereputasi tinggi yang dikelola oleh Clarivate.
 3. SINTA: Science and Technology Index, sistem pengindeksan penerbitan ilmiah nasional Kemendikbudristek RI.
